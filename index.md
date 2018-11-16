@@ -4,7 +4,6 @@ My academic experience consists of a Computer Science BSc degree at UFV (Federal
 
 [GitHub](https://github.com/fmafonseca)
 
-
 [Linkedin](https://www.linkedin.com/in/fmafonseca)
 
 ## My data science studies on GitHub
