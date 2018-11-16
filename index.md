@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+![photo](figures/foto.jpg) My name is Francisco Fonseca. I currently lead a team of data scientists in Brazil. I love to learn new things related to statistics, machine learning, i.e., data science in general. My current technical subjects of interest are statistical thinking of data science and probabilistic programming.
 
-You can use the [editor on GitHub](https://github.com/fmafonseca/fmafonseca.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My academic experience consists of a Computer Science BSc degree at UFV (Federal University of Viçosa - Brazil/MG) in 2002, a Computer Science MSc degree at PUC-Rio (Pontifical Catholic University of Rio de Janeiro - Brazil/RJ) in Computer Graphics in 2004.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[GitHub](https://github.com/fmafonseca)
 
-### Markdown
+[Linkedin](https://www.linkedin.com/in/fmafonseca)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## My data science studies on GitHub
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fmafonseca/fmafonseca.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Statistical Thinking of Data Science](https://fmafonseca.github.io/statistical-thinking-data-science/)
+- [Computer Age Statistical Inference](https://fmafonseca.github.io/casi/)
